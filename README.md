@@ -1,2 +1,2 @@
 # filesnapsync
-keep local file snapshot in sqlite db and used for file synchorize between pcs
+keep local file snapshot in sqlite db and use it for file synchorize between pcs
